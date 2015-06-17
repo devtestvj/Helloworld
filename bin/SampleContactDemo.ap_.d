@@ -1,0 +1,12 @@
+M:\JenkinsDemo\HelloWorld\bin\SampleContactDemo.ap_ \
+ : M:\JenkinsDemo\HelloWorld\res\drawable-hdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\res\drawable-ldpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\res\drawable-mdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\res\drawable-xhdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\res\layout\main.xml \
+M:\JenkinsDemo\HelloWorld\res\values\strings.xml \
+M:\JenkinsDemo\HelloWorld\bin\res\drawable-hdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\bin\res\drawable-ldpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\bin\res\drawable-mdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\bin\res\drawable-xhdpi\ic_launcher.png \
+M:\JenkinsDemo\HelloWorld\bin\AndroidManifest.xml \
