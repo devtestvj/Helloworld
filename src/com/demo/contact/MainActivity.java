@@ -28,7 +28,7 @@ public class MainActivity extends Activity
 		 
 					// set dialog message
 					alertDialogBuilder
-						.setMessage("Hello World!!")
+						.setMessage("Hello Hemanth!!")
 						.setCancelable(false)
 						.setPositiveButton("Ok",null);
 						
